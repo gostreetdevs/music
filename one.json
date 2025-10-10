@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1836797203,
     "artist": "APM Music",
@@ -7,10 +7,10 @@
     "speed": 1
   },
   {
-   "id": 1838488971,
-   "artist": "APM Music",
-   "name": "Never Gonna Give You Up",
-   "pitch": 0,
-   "speed": 1
+    "id": 1838488971,
+    "artist": "APM Music",
+    "name": "Never Gonna Give You Up",
+    "pitch": 0,
+    "speed": 1
   }
-}
+]
