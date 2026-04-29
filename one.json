@@ -1,12 +1,5 @@
 [
   {
-    "id": 1838488971,
-    "artist": "APM Music",
-    "name": "Never Gonna Give You Up",
-    "pitch": 0,
-    "speed": 1
-  },
-  {
     "id": 133458590638070,
     "artist": "Rihanna",
     "name": "Breakin' Dishes",
@@ -24,6 +17,13 @@
     "id": 140005875184443,
     "artist": "Charli XCX",
     "name": "Boom Clap",
+    "pitch": 0,
+    "speed": 0.5
+  },
+  {
+    "id": 108439164433561,
+    "artist": "David Guetta",
+    "name": "Hey Mama",
     "pitch": 0,
     "speed": 0.5
   }
